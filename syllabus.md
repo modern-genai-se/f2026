@@ -86,7 +86,7 @@ evaluation, and the introduction to agents.
 
 ## Communication 
 
-The course uses Blackboard for grading, announcements, and supplementary documents. Discussion and questions will be managed on [Slack](moderngenaiin-xum1052.slack.com ). Slides, assignments and the schedule will be posted on this website. 
+The course uses Blackboard for grading, announcements, and supplementary documents. Discussion and questions will be managed on [Slack](https://moderngenaiin-xum1052.slack.com). Slides, assignments and the schedule will be posted on this website. 
 
 Please use Slack for discussion and questions, including clarifying assignments. We prefer you write us on Slack instead of email. The instructors hold weekly office hours. If you cannot make it to office hours, contact us via Slack and we will find an alternative time to meet.
 
