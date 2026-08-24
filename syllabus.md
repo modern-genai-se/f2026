@@ -15,45 +15,35 @@ nav_order: 2
 
 ## Important details
 
-| | |
-|---|---|
-| **Semester** | Fall 2026 |
-| **Location** | ROME 204 |
-| **Time** | Monday 3:30 PM to 6:00 PM |
-| **Instructor** | Courtney Miller |
-| **Instructor email** | courtney.miller@gwu.edu |
+- **Semester:** Fall 2026
+- **Location:** ROME 204
+- **Time:** Monday 3:30 PM to 6:00 PM
+- **Instructor email:** [courtney.miller@gwu.edu](mailto:courtney.miller@gwu.edu)
+- **Course website:** [https://modern-genai-se.github.io/f2026/](https://modern-genai-se.github.io/f2026/)
 
 ## Course description
 
-Generative Artificial Intelligence (GenAI) tools are rapidly changing how
-software is built, maintained, and reviewed. This seminar explores emerging
-topics in large language model (LLM)-based agentic software engineering,
-including: foundations of agentic development tools, agentic applications
-across the software development lifecycle, and methods for evaluating their
-effectiveness and impact on sociotechnical software systems in practice. The
-course combines paper reading, presentation, and discussion. This seminar is
-designed for students interested in exploring agentic software engineering; no
-prior experience with LLM-based tools is required.
+Generative Artificial Intelligence (GenAI) tools are rapidly changing how software is built, maintained, and reviewed. This seminar explores emerging topics in large language model (LLM)-based agentic software engineering, including: foundations of agentic development tools, agentic applications across the software development lifecycle, and methods for evaluating their effectiveness and impact on sociotechnical software systems in practice. The course combines paper reading, presentation, and discussion. This seminar is designed for students interested in exploring agentic software engineering; no prior experience with LLM-based tools is required.
 
 ## Learning outcomes
 
 After taking this course, among others, students should be able to:
 
-- Compose a synthesized position on research about GenAI development tools by
+- **Compose** a synthesized position on research about GenAI development tools by
   appraising the design, evidence, and conclusions of that research, and
   communicate it to others
-- Evaluate new claims about GenAI development tools as they emerge,
+- **Evaluate** new claims about GenAI development tools as they emerge,
   distinguishing demonstrated capability from marketing
-- Explain what GenAI development tools are, how they are being used in the
+- **Explain** what GenAI development tools are, how they are being used in the
   software industry, and where their capabilities and limitations lie in
   practice
-- Create an assessment approach for determining whether a given GenAI
+- **Create** an assessment approach for determining whether a given GenAI
   development tool improves a specific, measurable outcome for a particular use
   case, selecting appropriate methods and justifying the choice
-- Apply knowledge of the GenAI development tools landscape to describe the
+- **Apply** knowledge of the GenAI development tools landscape to describe the
   range of applications of GenAI across software development and maintenance,
   including code generation, code review, program repair, testing, and security
-- Analyze the design of an agentic development tool in terms of its core
+- **Analyze** the design of an agentic development tool in terms of its core
   components and the function each serves
 
 ## Prerequisites
@@ -93,6 +83,13 @@ evaluation, and the introduction to agents.
 - 2.5 hours of direct instruction (i.e., class time) per week
 - 5 hours of independent learning (i.e., out of class time) per week
 - 112.5 hours total per semester
+
+## Communication 
+
+The course uses Blackboard for grading, announcements, and supplementary documents. Discussion and questions will be managed on [Slack](moderngenaiin-xum1052.slack.com ). Slides, assignments and the schedule will be posted on this website. 
+
+Please use Slack for discussion and questions, including clarifying assignments. We prefer you write us on Slack instead of email. The instructors hold weekly office hours. If you cannot make it to office hours, contact us via Slack and we will find an alternative time to meet.
+
 
 ## Assessment
 
@@ -166,12 +163,11 @@ cannot be made up; the two dropped scores exist to absorb this.
 ### Paper presentation and discussion leading
 
 Each student will be assigned one paper that they are responsible for leading
-the presentation and discussion of. Each paper session should last between 45
-and 60 minutes, and follow the structure outlined in the
-[Presentation Guidance and Structure](guidance.md) document. You are
+the presentation and discussion of. Each paper session should last roughly 50 minutes, and follow the structure outlined in the
+[Presentation Guidance and Structure](guidance.md) document. **You are
 responsible for sending us your slides via email by noon on the Thursday before
 your session. Five points will be deducted from your presentation grade for
-each day the slides are late, up to a maximum of 20 points. The
+each day the slides are late, up to a maximum of 20 points.** The
 [rubric](rubric.md) is also available.
 
 When you are not presenting, you are still expected to have read the paper and
@@ -208,7 +204,7 @@ searchable copy.
 
 ## Academic integrity
 
-The University's Code of Academic Integrity applies in full to this course. The
+The [University's Code of Academic Integrity](https://students.gwu.edu/code-academic-integrity-web) applies in full to this course. The
 work you present in this course must be your own. If your presentation includes
 text, figures, data, or ideas that came from somewhere other than the assigned
 paper, cite the source. This includes other papers, blog posts, talks, and any
@@ -256,7 +252,7 @@ with anyone outside your course-section.
 ## Accommodations
 
 If you wish to request an accommodation due to a documented disability, please
-contact Disability Support Services at
+contact [Disability Support Services](https://disabilitysupport.gwu.edu) at
 [dss@gwu.edu](mailto:dss@gwu.edu). If you have an accommodations letter from
 the Disability Support Services office, we encourage you to discuss your
 accommodations and needs with us as early in the semester as possible. We will
@@ -281,7 +277,6 @@ Asking for support sooner rather than later is often helpful.
 If you or anyone you know experiences any academic stress, difficult life
 events, or feelings like anxiety or depression, we strongly encourage you to
 seek support. Counseling and Psychological Services (CAPS) is here to help:
-call 202-994-5300 (24/7) and visit their website at
-[healthcenter.gwu.edu/counseling-and-psychological-services](https://healthcenter.gwu.edu/counseling-and-psychological-services).
+call 202-994-5300 (24/7) and visit their [website](https://healthcenter.gwu.edu/counseling-and-psychological-services).
 Consider reaching out to a friend, faculty or family member you trust for help
 getting connected to the support that can help.
