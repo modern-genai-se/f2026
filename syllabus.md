@@ -176,11 +176,8 @@ room brings.
 
 ### Hands-on activities
 
-Four hands-on activities will be completed and submitted during class over the
-course of the semester. These involve working directly with GenAI development
-tools and with the kinds of evidence used to evaluate them. Activity dates are
-announced in advance so you know when to bring a laptop. Because these are done
-in class, they cannot be made up, but your lowest score is dropped.
+Hands-on activities will be completed and submitted during class over the
+course of the semester, there will be at least four. These involve working directly with GenAI development tools and with the kinds of evidence used to evaluate them. Activity dates are announced in advance so you know when to bring a laptop. Because these are done in class, they cannot be made up, but your lowest score is dropped.
 
 ## Devices in lecture
 

@@ -6,20 +6,7 @@ nav_order: 3
 
 # Schedule
 
-Readings are assigned one week ahead. Printed copies are handed out at the end
-of the preceding class, and PDFs of each paper are linked below. This page is the
-authoritative version and is updated as the semester goes.
-
----
-layout: default
-title: Schedule
-nav_order: 3
----
-
-# Schedule
-
-Readings are assigned one week ahead. Printed copies are handed out at the end
-of the preceding class, and PDFs are linked below and can be found in the [Box paper repository](https://gwu.box.com/v/genai-in-software-dev-papers).
+Printed copies of each paper are handed out at the end of the preceding class, and PDFs are linked below and can be found in the [Box paper repository](https://gwu.box.com/v/genai-in-software-dev-papers). This page is the authoritative version of the course schedule and is updated as the semester goes.
 
 | Date | Topic | Readings | Hands-On Activity |
 |---|---|---|---|
