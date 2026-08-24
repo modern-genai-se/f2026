@@ -1,7 +1,6 @@
 title: "Modern GenAI in Software Development"
 description: "CSCI 6907/4907, Fall 2026, George Washington University"
-
-# ---- EDIT THESE TWO LINES IF YOUR ORG OR REPO NAME IS DIFFERENT ----
+logo: "/assets/images/logo.png"
 url: "https://modern-genai-se.github.io"
 baseurl: "/f2026"
 # --------------------------------------------------------------------
@@ -21,6 +20,7 @@ nav_external_links:
     url: https://blackboard.gwu.edu
   - title: "Slack Channel"
     url: https://join.slack.com/t/moderngenaiin-xum1052/shared_invite/zt-47qafv1qd-YNvhxpUUa0BWkAyWxb2ljQ
+
 
 footer_content: "Courtney Miller, George Washington University."
 
