@@ -20,6 +20,7 @@ nav_order: 2
 - **Time:** Monday 3:30 PM to 6:00 PM
 - **Instructor email:** [courtney.miller@gwu.edu](mailto:courtney.miller@gwu.edu)
 - **Course website:** [https://modern-genai-se.github.io/f2026/](https://modern-genai-se.github.io/f2026/)
+- **Office hours:** Mondays, 2:00 to 3:00 PM, SEH 4600
 
 ## Course description
 

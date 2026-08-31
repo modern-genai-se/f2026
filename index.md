@@ -17,7 +17,7 @@ Generative Artificial Intelligence (GenAI) tools are rapidly changing how softwa
 - **Instructor:** Courtney Miller
 - **Email:** courtney.miller@gwu.edu
 - **Office:** SEH 4600
-- **Office hours:** TBD
+- **Office hours:** Mondays, 2:00 to 3:00 PM, SEH 4600
 - **Meetings:** Mondays, 3:30 to 6:00 PM
 - **Room:** ROME 204
 
