@@ -2,7 +2,7 @@
 
 Course site source. Fall 2026, George Washington University.
 
-Site: https://gw-genai-se.github.io/f2026/
+Site: https://modern-genai-se.github.io/f2026/
 
 Built by GitHub Pages directly from the `main` branch using the
 [Just the Docs](https://just-the-docs.github.io/just-the-docs/) remote theme.
@@ -22,6 +22,8 @@ minute.
 | `presentations.md` | Paper Presentations (parent page) |
 | `guidance.md` | Paper Presentations > Guidance and Structure |
 | `rubric.md` | Paper Presentations > Rubric |
+| activities.md | Hands-On Activities (parent page) |
+| activity1.md | Hands-On Activities > Activity 1 |
 
 Nav is controlled by the front matter at the top of each file, not by folder
 structure. `nav_order` sets position, `parent:` makes a page a subpage.
