@@ -111,7 +111,7 @@ Answer all three questions by hand on the sheet provided. Use your prompt log an
 
 2. Compare your Task 4 prompts with a groupmate's. Name one thing they specified that you did not, and one thing you specified that they did not. For each, say what difference you believe it made in the two games.
 
-3. Your prompts for the four tasks specified what each should accomplish, but they most likley did not specify everything about how the finished game looks and behaves. Name three design decisions in your final version that you never specified, then pick the one you would most want to change, explain why, and write the prompt you would send to change it.
+3. Your prompts for the four tasks specified what each should accomplish, but they most likely did not specify everything about how the finished game looks and behaves. Name three design decisions in your final version that you never specified, then pick the one you would most want to change, explain why, and write the prompt you would send to change it.
 
 ## Grading
 
