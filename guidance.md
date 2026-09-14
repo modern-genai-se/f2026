@@ -7,96 +7,12 @@ nav_order: 1
 
 # Guidance and Structure 
 
+Each paper session is 50 minutes and has two parts, in this order:
 
-### Presentation 
+1. **Reviewer's Card Activity** (10 minutes). The room forms groups and takes a position on the paper based on the reading alone, before you have said anything about it.
+2. **Presentation and Discussion** (40 minutes). You present the paper and lead the discussion as one combined session, pausing to discuss each part of the paper as you get to it, the way a reading group works.
 
-Assume the room has read the paper. Your job is not to summarize it for people who haven't. Your job is to explain it well enough that the room can evaluate it.
- 
-Aim for 6 to 7 slides, plus two closing slides: one showing one listing your four discussion questions and one showingthe Reviewer's Card prompts At 2 to 3 minutes per slide, more than 8 will not fit. 
- 
-#### Recommended Outline
- 
-| Slide | Content |
-|---|---|
-| 1 | Title, authors, affiliations, venue, year |
-| 2 | The question the authors set out to answer, and why it matters |
-| 3 | Background needed to follow the paper |
-| 4 | Method: what the authors actually did |
-| 5 | Results: the two or three key findings that carry the argument |
-| 6 | Strengths and limitations |
-| 7 | Open questions, discussion, and implications |
-| 8 | Your four discussion questions |
-| 9 | Reviewer's Card prompts (displayed during the activity) |
- 
- 
-**1. Title, authors, affiliations, venue, year.**
-Say who wrote this and where it appeared. Venue and year matter in a field moving this fast: a 2022 result about code completion and a 2026 result about agents are answering different questions. If the paper is a preprint, which many are, say so. 
- 
-**2. The question the authors set out to answer, and why it matters.**
-Spend no more than two minutes here, but do not skip it. Try to state the problem in a straight forward manner, then say what makes the work non-trivial and who would care about the answer.
- 
-**3. Background needed to follow the paper.**
-Only what the room needs, and no more. Do not worry about getting too into the weeds here. This is also where you give a roadmap: tell the audience where the talk is going so they can follow the structure rather than reconstructing it. 
- 
-**4. Method: what the authors actually did.**
-This slide usually deserves the most time. The class cannot judge a finding without understanding how it was produced, and this is the slide the discussion will depend on. Cover who or what was studied, what was measured, and how. Slow down and take your time here, however avoid spending too much time on specific technical details. 
- 
-**5. Results: the findings the paper's argument rests on.**
-Pick the two or three key findings that support the paper's claim, and skip the rest. Use the authors' own figures where possible. State each result plainly before interpreting it, and be clear about what the results do and do not mean where relevant. 
- 
-**6. Strengths and limitations.**
-Be specific and be fair. It is tempting to focus on flaws, but naming what the paper does well is part of the analysis. Frame weaknesses as openings for future work rather than as failures. Distinguish limitations the authors acknowledged from ones they did not.
- 
-**7. Open questions, discussion, and implications.**
-What follows if this result is true? What did the paper not settle? This is where you say what you think, not just what the authors said.
-
-**8. Your four discussion questions.**
-This slide exists so your questions are written down before you walk in, and so I can see them in the submitted deck. You do not have to display it during the discussion, and many presenters find the conversation goes better when the room is not reading ahead. Guidance on writing good questions is below.
-
-**9. Reviewer's Card prompts.**
-The four prompts from the Reviewer's Card (see below). Put this slide up when you start the activity and leave it up for the duration of the activity so groups can see what they are filling in.
- 
-Presenting the paper in the order the authors wrote it is fine. What matters is allocating time by importance rather than by section length. Related work rarely needs more than a sentence. If a section does not support the argument, say so and move on.
-
-Not every paper fits this outline. If your paper builds a system rather than running a study, slides 4 and 5 become the design (what they built and which decision it turns on) and the evaluation (what they compared against and what that comparison establishes). If your paper argues a position rather than reporting results, they become the argument (the claim and the chain of reasoning) and the evidence it rests on.
-
-#### Advice on Giving the Presentation
- 
-**Organize each section as big ideas, then details, then a one-line summary.** People cannot absorb detail they have no place to put. Say what the section is about before you go into it.
- 
-**Slides are a guide for your talk, not a transcript of it.** If a slide contains full sentences you intend to read aloud, cut them down.
- 
-**Use the paper's figures.** A good slide is mostly a figure with a short caption. Dense bullet lists are hard to follow and hard to speak from.
- 
-**Calibrate for a mixed audience.** This class includes students from different backgrounds and different levels of software engineering experience. Assume general computing knowledge. Do not assume familiarity with specific methods, tools, or subfields, and define terms you have gotten used to.
- 
-**Practice once out loud with a timer.** Fifteen minutes is shorter than it sounds. If you run long in practice, cut a slide rather than talking faster.
- 
-#### Preparing Discussion Questions
- 
-Prepare four discussion questions and put them on your final slide.
- 
-A question is worth asking if two well-prepared people who both read the paper could reasonably disagree about the answer. If the question has one correct answer, it belongs in your presentation, not the discussion.
- 
-**Two questions that do not work:**
- 
-> *"Did the authors do a good job?"*
- 
-Too vague to answer. Nobody knows what kind of response is wanted, so nobody speaks.
- 
-> *"How many developers participated in the study?"*
- 
-One correct answer, and it is in the paper. This is presentation content, not a discussion question.
- 
-**Two questions that do work:**
- 
-> *"METR found that developers were 19% slower with AI tools but believed they were 20% faster. If you were advising a company that had to set policy based on one of those two numbers, which would you pick, and why?"*
- 
-Forces a choice between two defensible positions, and both sides have real arguments. Answering requires taking a position on what the study actually measured.
- 
-> *"Suppose the effect the authors found is real, but the mechanism is not the one they propose. What is the most plausible alternative explanation, and what would you measure to tell the two apart?"*
- 
-Asks the room to reason about study design rather than recall results. It works on almost any empirical paper, and it produces concrete answers rather than general skepticism.
+You run both parts.
 
 
 ### Reviewer's Card Activity
@@ -172,27 +88,108 @@ The card is a single half-page. The instructor prints and distributes them.
 ```
 
 
-### Discussion
 
-The discussion is a reading group-style conversation about the paper. You are running it, not attending it. It follows roughly the same arc as your presentation, but collaboratively: the claim, then the evidence, then what follows from it. The difference is that you are not the one supplying the answers, but rather facilitating the larger group discussion. 
+### Presentation and Discussion
 
-#### Come with a plan
+Assume the room has read the paper. Your job is not to summarize it for people who haven't. Your job is to explain it well enough that the room can evaluate it
 
-Have at least four questions prepared, and know where each one fits in the conversation before you walk in. Some questions open a segment. Some are follow-ups you will only use if the room goes a particular direction. Some you will not use at all. What matters is that you have thought about 
+The presentation and the discussion are one session, not two. You present a part of the paper, then open it up for discussion, then move to the next part. Intro, discussion, method, discussion, results, discussion, and so on. The difference from a lecture is that you are not the one supplying the answers, but rather facilitating the larger group discussion. Your discussion questions go on the slide where you will ask them.
+ 
+Aim for 7 content slides, plus one opening slide with the Reviewer's Card prompts. Your speaking time across the 7 content slides should total about 15 minutes; the remaining 25 minutes is discussion.
+ 
+#### Recommended Outline
+ 
+| Slide | Content |
+|---|---|
+| 1 | Reviewer's Card prompts (displayed during the activity) |
+| 2 | Title, authors, affiliations, venue, year |
+| 3 | The question the authors set out to answer, and why it matters |
+| 4 | Background needed to follow the paper |
+| 5 | Method: what the authors actually did |
+| 6 | Results: the two or three key findings that carry the argument |
+| 7 | Strengths and limitations |
+| 8 | Open questions, discussion, and implications |
+ 
+ 
+**1. Reviewer's Card prompts.**
+The four prompts from the Reviewer's Card (see above). Put this slide up when you start the activity and leave it up for the duration of the activity so groups can see what they are filling in.
 
-What matters is that you have thought about which points in this paper are discussion-worthy, and where each one naturally fits in the context of your discussion plan, rather than reading your questions off in order.
+**2. Title, authors, affiliations, venue, year.**
+Say who wrote this and where it appeared. Venue and year matter in a field moving this fast: a 2022 result about code completion and a 2026 result about agents are answering different questions. If the paper is a preprint, which many are, say so. This is also where you report the accept/reject split from the cards in one sentence and name the objection that came up most often. 
+ 
+**3. The question the authors set out to answer, and why it matters.**
+Spend no more than two minutes here, but do not skip it. Try to state the problem in a straightforward manner, then say what makes the work non-trivial and who would care about the answer.
+ 
+**4. Background needed to follow the paper.**
+Only what the room needs, and no more. Do not worry about getting too into the weeds here. This is also where you give a roadmap: tell the audience where the talk is going so they can follow the structure rather than reconstructing it. 
+ 
+**5. Method: what the authors actually did.**
+This slide usually deserves the most time, both presenting and discussing. The class cannot judge a finding without understanding how it was produced, and this is the slide the discussion will depend on. Cover who or what was studied, what was measured, and how. Slow down and take your time here, however avoid spending too much time on specific technical details. 
+ 
+**6. Results: the findings the paper's argument rests on.**
+Pick the two or three key findings that support the paper's claim, and skip the rest. Use the authors' own figures where possible. State each result plainly before interpreting it, and be clear about what the results do and do not mean where relevant. 
+ 
+**7. Strengths and limitations.**
+Be specific and be fair. It is tempting to focus on flaws, but naming what the paper does well is part of the analysis. Frame weaknesses as openings for future work rather than as failures. Distinguish limitations the authors acknowledged from ones they did not.
+ 
+**8. Open questions, discussion, and implications.**
+What follows if this result is true? What did the paper not settle? This is where you say what you think, not just what the authors said. Close by asking what the follow-up study should be, and give the room your own answer last.
+ 
+Presenting the paper in the order the authors wrote it is fine. What matters is allocating time by importance rather than by section length. Related work rarely needs more than a sentence. If a section does not support the argument, say so and move on.
 
-An example shape for 25 minutes:
+Not every paper fits this outline. If your paper builds a system rather than running a study, slides 5 and 6 become the design (what they built and which decision it turns on) and the evaluation (what they compared against and what that comparison establishes). If your paper argues a position rather than reporting results, they become the argument (the claim and the chain of reasoning) and the evidence it rests on.
+
+#### An example shape for 40 minutes
 
 | Time | Segment | What happens |
 |---|---|---|
-| 0:00–3:00 | Open | Report the accept/reject split from the cards in one sentence. Name the objection that came up most often and ask whether it is fatal to the paper's claim or whether some weaker version survives it. |
-| 3:00–8:00 | The claim | Is the contribution what the authors say it is? Get the room to agree on what is actually being claimed before arguing about whether it holds. |
-| 8:00–16:00 | The evidence | The core of the session, and it should get the most time. Does the design support the claim? What would you have done differently? |
-| 16:00–23:00 | Implications | If this is true, what follows? Who should change what they do? |
-| 23:00–25:00 | Close | Ask what the follow-up study should be. Give the room your own answer last. |
-
+| 0:00–3:00 | Open (slide 2) | Title and venue. Report the accept/reject split from the cards in one sentence and name the objection that came up most often. |
+| 3:00–8:00 | Intro and motivation (slides 3 and 4) | Present the question the authors set out to answer and the background needed to follow the paper, then discuss: is the contribution what the authors say it is? Get the room to agree on what is actually being claimed before arguing about whether it holds. |
+| 8:00–18:00 | Methods (slide 5) | Present what the authors actually did, then discuss: does the design support the claim? What would you have done differently? This segment should get the most time. |
+| 18:00–26:00 | Findings (slide 6) | Present the two or three key results, then discuss: what do they establish, and what do they not? |
+| 26:00–32:00 | Limitations (slide 7) | Present strengths and limitations, then discuss: is the most common objection from the cards fatal to the paper's claim, or does some weaker version survive it? |
+| 32:00–37:00 | Implications (slide 8) | Present open questions and implications, then discuss: if this is true, what follows? Who should change what they do? |
+| 37:00–40:00 | Close | Ask what the follow-up study should be. Give the room your own answer last. |
 Adapt the shape to your paper. A position paper has no method to interrogate, so the evidence segment becomes a question about whether the argument holds and where it breaks. A systems paper turns it into a question about whether the design was right and whether the evaluation supports the claim.
+
+#### Advice on Giving the Presentation
+ 
+**Organize each section as big ideas, then details, then a one-line summary.** People cannot absorb detail they have no place to put. Say what the section is about before you go into it.
+ 
+**Slides are a guide for your talk, not a transcript of it.** If a slide contains full sentences you intend to read aloud, cut them down.
+ 
+**Use the paper's figures.** A good slide is mostly a figure with a short caption. Dense bullet lists are hard to follow and hard to speak from.
+ 
+**Calibrate for a mixed audience.** This class includes students from different backgrounds and different levels of software engineering experience. Assume general computing knowledge. Do not assume familiarity with specific methods, tools, or subfields, and define terms you have gotten used to.
+ 
+**Practice once out loud with a timer.** Fifteen minutes is shorter than it sounds. If you run long in practice, cut a slide rather than talking faster.
+ 
+#### Preparing Discussion Questions
+ 
+Prepare at least four discussion questions. Each one goes on the slide where you will ask it.
+
+A question is worth asking if two well-prepared people who both read the paper could reasonably disagree about the answer. If the question has one correct answer, it belongs in your presentation, not the discussion.
+ 
+**Two questions that do not work:**
+ 
+> *"Did the authors do a good job?"*
+ 
+Too vague to answer. Nobody knows what kind of response is wanted, so nobody speaks.
+ 
+> *"How many developers participated in the study?"*
+ 
+One correct answer, and it is in the paper. This is presentation content, not a discussion question.
+ 
+**Two questions that do work:**
+ 
+> *"METR found that developers were 19% slower with AI tools but believed they were 20% faster. If you were advising a company that had to set policy based on one of those two numbers, which would you pick, and why?"*
+ 
+Forces a choice between two defensible positions, and both sides have real arguments. Answering requires taking a position on what the study actually measured.
+ 
+> *"Suppose the effect the authors found is real, but the mechanism is not the one they propose. What is the most plausible alternative explanation, and what would you measure to tell the two apart?"*
+ 
+Asks the room to reason about study design rather than recall results. It works on almost any empirical paper, and it produces concrete answers rather than general skepticism.
+
 
 #### Running the room
 
@@ -207,7 +204,6 @@ Adapt the shape to your paper. A position paper has no method to interrogate, so
 **When you disagree with someone, ask rather than assert.** "What would have to be true for that to hold?" works better than telling them they are wrong.
 
 **Do not steer toward a conclusion you decided on in advance.** Your job is to open the conversation up, not to land it where you already were.
-
 ## Citation
 
 If your presentation includes text, figures, data, or ideas from anywhere other
