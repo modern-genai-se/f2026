@@ -7,45 +7,43 @@ nav_order: 1
 
 # Guidance and Structure 
 
-Each paper session is 50 minutes and has two parts, in this order:
+Each paper session is 50 minutes and has two parts:
 
-1. **Reviewer's Card Activity** (10 minutes). The room forms groups and takes a position on the paper based on the reading alone, before you have said anything about it.
-2. **Presentation and Discussion** (40 minutes). You present the paper and lead the discussion as one combined session, pausing to discuss each part of the paper as you get to it, the way a reading group works.
+1. **Reviewer's Card Activity** (10 minutes). The room forms groups and takes a position on the paper based on the reading done before class, and the discussion they have during the activity. 
 
-You run both parts.
-
+2. **Presentation and Discussion** (40 minutes). The student who is serving as paper lead presents the paper and leads the discussion as one combined session, pausing to discuss each part of the paper as you get to it, the way a typical reading group works.
 
 ### Reviewer's Card Activity
 
-Judging whether a paper's evidence actually supports its claim is the core skill of this course, and the Reviewer's Card Activity is how you practice it. Every paper session uses the same activity so the structure becomes automatic. It also means your discussion never starts from a silent room, because every group arrives holding a position they have already argued about. Blank cards are provided by the instructor at the start of class. Your job is to run the activity clearly and keep it on time.
+Judging whether a paper's evidence supports its claim is the core skill of this course, and the Reviewer's Card Activity is how you practice it. Every paper session uses the same activity so the structure becomes second nature. It also means your discussion never starts from a silent room, because every group arrives holding a position they have already argued about. Blank cards are provided by the instructor at the start of class. The paper lead's job is to run the activity clearly and keep it on time.
 
  
 #### Procedure
-Announce each transition out loud. Groups will run over if you do not.
+Announce each transition out loud. Groups will run over if you do not. Use a timer to keep time if you need to. 
  
 **Step 1. Form groups (30 seconds).**
 Split the room into groups of five. Hand each group one blank Reviewer's Card.
  
 **Step 2. Individual thinking, silent (2 minutes).**
-Before any group discussion, each student works alone. Instruct them to write down, on their own paper, one sentence stating what they take the paper's main claim to be, and one sentence naming what they see as the biggest weakness. 
+Each student individually writes down, on their own paper, one sentence stating what they take the paper's main claim to be, and one sentence naming what they see as the biggest weakness. 
  
 **Step 3. Group discussion (3 minutes).**
-Groups compare what they each wrote and work toward a shared position. Tell them explicitly that they do not have to agree, and that if they cannot agree on the accept/reject decision they should note the split on the card.
+Each group reconvenes and takes turns comparing what they wrote, working toward a shared position, accept or reject. Tell them explicitly that they do not have to agree, and that if they cannot agree on the decision they should note the split on the card and explain the discourse.
  
 **Step 4. Fill out the card (2 minutes).**
-Instruct the groups to fill out their card. Remind them that all group member names go at the top.
+Instruct the groups to fill out their card. Remind them to write all group member names at the top.
  
 **Step 5. Share out (2 minutes).**
-Go around the room. Each group gives one sentence: their accept or reject decision and the reason. Keep this fast. It is one line per group, not a report.
+Go around the room. Each group gives one sentence: First, their accept or reject decision and then the reason. Keep this abridged. 
  
 **Step 6. Collect the cards (30 seconds).**
-Collect all cards and confirm every card has names on it. Cards are submitted to the instructor at the end of class.
+Collect all cards and confirm every card has names on it. Cards are submitted to the instructor at the end of the exercise. 
  
 
  
 #### Reviewer's Card template
  
-The card is a single half-page. The instructor prints and distributes them.
+The card is a single page. The instructor prints and distributes them.
  
 ```
 ┌────────────────────────────────────────────────────────────────┐
@@ -91,9 +89,9 @@ The card is a single half-page. The instructor prints and distributes them.
 
 ### Presentation and Discussion
 
-Assume the room has read the paper. Your job is not to summarize it for people who haven't. Your job is to explain it well enough that the room can evaluate it
+Assume the room has read the paper. Your job is not to summarize it for people who haven't. Your job is to explain it well enough that the room can evaluate it and discuss.
 
-The presentation and the discussion are one session, not two. You present a part of the paper, then open it up for discussion, then move to the next part. Intro, discussion, method, discussion, results, discussion, and so on. The difference from a lecture is that you are not the one supplying the answers, but rather facilitating the larger group discussion. Your discussion questions go on the slide where you will ask them.
+The presentation and the discussion are one session performed in tandem as one exercise. You present a part of the paper, then open it up for discussion, then move to the next part. Intro, {discussion}, method, {discussion}, results, {discussion}, and so on. The difference from a lecture is that you are not the one supplying the answers, but rather facilitating the larger group discussion. Your discussion questions go on the slide where you will ask them.
  
 Aim for 7 content slides, plus one opening slide with the Reviewer's Card prompts. Your speaking time across the 7 content slides should total about 15 minutes; the remaining 25 minutes is discussion.
  
@@ -115,8 +113,8 @@ Aim for 7 content slides, plus one opening slide with the Reviewer's Card prompt
 The four prompts from the Reviewer's Card (see above). Put this slide up when you start the activity and leave it up for the duration of the activity so groups can see what they are filling in.
 
 **2. Title, authors, affiliations, venue, year.**
-Say who wrote this and where it appeared. Venue and year matter in a field moving this fast: a 2022 result about code completion and a 2026 result about agents are answering different questions. If the paper is a preprint, which many are, say so. This is also where you report the accept/reject split from the cards in one sentence and name the objection that came up most often. 
- 
+Say who wrote this and where it appeared. Venue and year matter in a field moving this fast: a 2022 result about code completion and a 2026 result about agents are answering different questions. If the paper is a preprint, which many are, say so. 
+
 **3. The question the authors set out to answer, and why it matters.**
 Spend no more than two minutes here, but do not skip it. Try to state the problem in a straightforward manner, then say what makes the work non-trivial and who would care about the answer.
  
