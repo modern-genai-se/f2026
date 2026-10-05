@@ -15,7 +15,7 @@ This activity is adapted from the "Multi-agent design patterns" lesson in Micros
 
 Our client is the Allegheny Cat Café, a small café where visitors can have a coffee with resident cats and maybe adopt one. They want a simple website showing their menu, their cats, and a way to book a visit.
 
-First, you will design a team of agents that could build this website, using the patterns and building blocks from the mini-lecture. Then you will run a small three-agent team in VS Code, where each agent does one job and passes its result to the next. Finally, you will check whether the café's rules survive each handoff or get lost or changed along the way. Handoffs are where multi-agent systems often break.
+First, you will design a team of agents that could build this website, using the patterns and building blocks from the mini-lecture. Then you will run a small three-agent team in GitHub Codespace, where each agent does one job and passes its result to the next. Finally, you will check whether the café's rules survive each handoff or get lost or changed along the way. Handoffs are where multi-agent systems often break.
 
 You do not need any programming experience. Nobody writes code today, including the agents.
 
