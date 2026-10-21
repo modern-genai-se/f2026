@@ -16,6 +16,6 @@ Each activity ends with a short handwritten reflection that is collected before 
 | Activity | Date | Topic |
 |---|---|---|
 | [Activity 1](activity1.md) | Mon Aug 31 | Changing code you didn't write |
-| Activity 2 | Mon Sep 21 | TBA |
-| Activity 3 | Mon Oct 05 | TBA |
-| Activity 4 | Mon Oct 26 | TBA |
+| [Activity 2](activity2.md) | Mon Sep 21 | Using skill files |
+| [Activity 3](activity3.md) | Mon Oct 05 | Designing a development team using subagents |
+| Activity 4 | Mon Nov 02 | TBA |
