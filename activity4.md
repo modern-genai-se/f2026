@@ -8,6 +8,7 @@ nav_order: 4
 # Activity 4: Evaluating Benchmark Claims and Learning from Model Cards
 
 ---
+[Download the printable reflection sheet (PDF)](assets/Hands_On_Activities/activity_4_worksheet.pdf)
 
 ## Overview
 In lecture you audited OpenAI's reporting of Astra's cybersecurity score. The headline was a perfect score of 100% on ExploitBench. A later sanity check performed on a refreshed benchmark, built from vulnerabilities after Astra's knowledge cutoff, yielded a score of 39%. 
