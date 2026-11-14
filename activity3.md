@@ -142,8 +142,9 @@ Each agent only saw what the agent before it wrote. If a rule was dropped or rew
 | Anyone under 12 must come with an adult | | | |
 
 ## Reflection (5 minutes)
-
 Answer both questions by hand on the sheet provided. Use your design, your trace table, and your notes. Do not use AI to assist in writing this reflection.
+
+[Download the printable reflection sheet (PDF)](assets/Hands_On_Activities/activity_3_worksheet.pdf)
 
 1. Describe one handoff from your design in Step 1: which two agents, and exactly what information passes between them. Then describe one point in your design where a human should approve the work before the team continues, and explain why that point needs a human rather than another agent.
 

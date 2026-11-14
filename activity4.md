@@ -8,7 +8,6 @@ nav_order: 4
 # Activity 4: Evaluating Benchmark Claims and Learning from Model Cards
 
 ---
-[Download the printable reflection sheet (PDF)](assets/Hands_On_Activities/activity_4_worksheet.pdf)
 
 ## Overview
 In lecture you audited OpenAI's reporting of Astra's cybersecurity score. The headline was a perfect score of 100% on ExploitBench. A later sanity check performed on a refreshed benchmark, built from vulnerabilities after Astra's knowledge cutoff, yielded a score of 39%. 
@@ -18,23 +17,18 @@ A model card is a document a developer publishes with a model. It reports benchm
 In this activity, you read excerpts from the benchmark section of Anthropic's model card for Claude Opus 4.7, perform a comparative analysis, and use that analysis to inform your decision on which model to choose for your "team." Your "team" develops a research assistant tool that answers questions by searching the web. It currently uses Claude Opus 4.6. Your lead asks whether the team should switch to Claude Opus 4.7. You will identify the relevant evidence in the card excerpts, assess how it was measured, and write a recommendation.
 
 ## Logistics
-
 Sit in groups of 3 to 4. Discuss Table 1 with your group. Everyone fills in their own reflection sheet.
-
 The reflection is individual, handwritten, and will be graded. You may not use any AI tools to write the reflection.
 
 ## Setup
-
-Nothing to install. Keep your reflection sheet in front of you. Start this page once the class discussion of Question 1 ends.
+There is nothing to install. Keep your reflection sheet in front of you. Start the activity on this page once the class discussion of Question 1 ends.
 
 ## Background: How to read a model card (2 minute read)
-
 A full model card, aka system card, is hundreds of pages. [Claude Opus 4.7's model card](https://assets.claude.com/037f06850df7fbe871e206dad004c3db5fd50340.pdf) is 232 pages, and its benchmark evaluation results are presented in Section 8. 
-
-You can use the following four steps to get from your question of 'which model to choose' to a reccomendation that you can support with evidence from the card. 
+Use the following four steps to get from your question of 'which model to choose' to a recommendation that you can support with evidence from the card. 
 
 1. **Turn the question into a task a benchmark can answer.** A score answers your question only if the benchmark's tasks resemble your product's tasks. Your product searches the web, so you need benchmarks made of web research tasks. A score on a benchmark of command-line tasks says nothing about performance on web research.
-2. **Record each model's score, and its ± range if the card gives one.** The ± symbol represents the margin of error (MOE) the card reports around a score. It shows how much the score could vary if the test were run again, given a certain confidence level. The confidence interval (CI) is the range within which the true score is expected to fall, and you get its upper and lower bounds by adding the margin of error to the score and subtracting it from the score. 
+2. **Record each model's score, and its ± range if the card gives one.** The ± symbol represents the margin of error (MOE) the card reports around a score. It shows how much the score could vary if the test were run again, given a certain confidence level. The confidence interval (CI) is the range within which the true score is expected to fall, and the upper and lower bounds of the range are calculated by adding the margin of error to the score and subtracting it from the score. 
 
 `CI = (Score − MOE, Score + MOE)`
 
@@ -46,12 +40,12 @@ You can use the following four steps to get from your question of 'which model t
 
 ## Activity
 
-The card text is quoted below from Anthropic, *System Card: Claude Opus 4.7*, April 16, 2026, <https://anthropic.com/claude-opus-4-7-system-card>. Page numbers are from the card's PDF.
+The [Claude Opus 4.7's model card](https://assets.claude.com/037f06850df7fbe871e206dad004c3db5fd50340.pdf) text is quoted in several excerpts. Page numbers are from the card's PDF.
 
 ### Step 1: Select the benchmarks that match your product (1 minute)
 
 Excerpt 1 is part of the card's summary table and lists four benchmarks. Excerpt 3 adds a fifth benchmark. 
-Below are descriptions of the tyes of tasks each benchmark is intended to evaluate. Choose the two benchmarks that best match your research assistant and write them in the first column of Table 1 on your sheet.
+Below are descriptions of the types of tasks each benchmark is intended to evaluate. Choose the two benchmarks that best match your research assistant and write them in the first column of Table 1 on your sheet.
 
 - SWE-bench: Evaluates model's performance on real-world software engineering tasks.
 - BrowseComp: Evaluates model's ability to find hard-to-locate information on the open web.
@@ -66,7 +60,7 @@ Review the card excerpts below to identify the scores for Claude Opus 4.6 and Cl
 Note: you will have to calculate the CI using the MOE and score using the formula:
 
 `CI = (Score − MOE, Score + MOE)`
-For example, if the score is 70%  and the ± is 2% -> CI: [68, 72]
+For example, if the score is 70% and the ± is 2% -> CI: [68, 72]
 
 **Excerpt 1: Table 8.1.A, selected rows (pp. 191 to 192).** A dash means the card reports no score. Footnote markers are left out.
 
@@ -105,13 +99,14 @@ For each benchmark, compare the CIs you calculated for each model's score and re
 Reread the text in Excerpts 1 to 3. In the last column of Table 1, write one sentence per benchmark saying whether the two models were evaluated under the same conditions in the fifth column of Table 1. If the models were evaluated under different conditions, describe the differences.
 
 
-### Step 5: Evaluate the evidence gathered and make a reccomendation 
-Evaluate the evidence you've gathered and make a decision about your reccomended course of action for the team, and then use that decision to answer Question 2 on the reflection sheet. 
+### Step 5: Evaluate the evidence gathered and make a recommendation 
+Evaluate the evidence you've gathered and make a decision about your recommended course of action for the team and then use that decision to answer Question 2 on the reflection sheet. 
 
 
 ## Reflection (5 minutes)
- 
-Answer both open resonse questions on the by hand on the reflection sheet provided. Do not use AI to assist in writing this reflection.
+Answer both open response questions by hand on the reflection sheet provided. Do not use AI to assist in writing this reflection.
+
+[Download the printable reflection sheet (PDF)](assets/Hands_On_Activities/activity_4_worksheet.pdf)
 
 1.  Rewrite the first two sentences of the Cybersecurity section so that they satisfy the best-practices outlined in the lecture. Keep every number OpenAI reported. 
 
@@ -120,8 +115,7 @@ Answer both open resonse questions on the by hand on the reflection sheet provid
 
 
 ## Grading 
- 
-10 points. Graded on the reflection only.
+10 points. Graded on the reflection sheet only.
 
 | Criterion | Points |
 | --- | --- |
@@ -155,6 +149,5 @@ The question is graded based on the reasoning provided, not the decision itself.
 
 
 ## Submission
- 
 Hand your reflection sheet to the instructor before you leave. Late reflections are not accepted, since the activity is in class.
 

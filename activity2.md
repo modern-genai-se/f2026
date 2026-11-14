@@ -108,8 +108,9 @@ Do not edit any files by hand except your skill file. Everything else goes throu
 4. **Check it** against the same four rules. Note what changed from Step 1 and what did not.
 
 ## Reflection (5 minutes)
- 
 Answer both questions by hand on the sheet provided. Do not use AI to assist in writing this reflection.
+
+[Download the printable reflection sheet (PDF)](assets/Hands_On_Activities/activity_2_worksheet.pdf)
  
 1. What did the agent get right and wrong the first time, and did it find the project's rules on its own? What did your skill change? Use what you saw to explain what a skill gives you that leaving the agent to find the rules on its own does not.
 

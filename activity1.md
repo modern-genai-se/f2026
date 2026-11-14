@@ -104,8 +104,9 @@ Make note of what changes you observe after each task.
 7. **Before you move on:** trade prompt logs with someone in your group and play both versions. Find one thing they told the agent that you never did, and one thing you told it that they never did. Note what each of those changed about the game.
 
 ## Reflection (10 minutes)
-
 Answer all three questions by hand on the sheet provided. Use your prompt log and the notes you took during the activity. Do not use AI to assist in writing this reflection.
+
+[Download the printable reflection sheet (PDF)](assets/Hands_On_Activities/activity_1_worksheet.pdf)
 
 1. Write your first prompt for Task 4 exactly as you sent it, then write the prompt that finally got you what you wanted. If your first prompt worked, say so. If your first prompt did not work, what did you have to add, and what made you realize it was missing?
 
